@@ -1,4 +1,7 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel Rezer 👋
+💻 Técnico de Informática no Poder Legislativo  
+🎓 Acadêmico de Ciência da Computação  
+🚀 Entusiasta de tecnologia, automação e aprendizado contínuo  
 
 <!--
 **rezergabriel/rezergabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
